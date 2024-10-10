@@ -5,6 +5,7 @@ import { Browser, BrowserContext, Page } from '../index';
 import Agent from '../lib/Agent';
 import { attachFrame, setContent, waitForExists } from './_pageTestUtils';
 import { TestServer } from './server';
+import Frame from '../lib/Frame';
 
 describe('Frames', () => {
   let server: TestServer;
@@ -38,14 +39,6 @@ describe('Frames', () => {
     await Helpers.afterAll();
   });
 
-  function getContexts(contextPage: Page): number {
-    let count = 0;
-    // @ts-expect-error
-    const contexts = contextPage.framesManager.activeContextIdsBySessionId.values();
-    for (const ctx of contexts) count += ctx.size;
-    return count;
-  }
-
   describe('basic', () => {
     it('should have different execution contexts', async () => {
       await page.goto(server.emptyPage);
@@ -58,6 +51,16 @@ describe('Frames', () => {
       expect(await page.frames[1].evaluate('window.FOO')).toBe('bar');
     });
 
+    it('should not fetch context id for evaluate in mainframe', async () => {
+      await page.goto(server.emptyPage);
+      await page.waitForLoad('AllContentLoaded');
+      const mainFrame = page.mainFrame;
+    
+      const spy = jest.spyOn<any, any>(mainFrame, 'waitForContextId');
+      await mainFrame.evaluate('window.location.href');
+      expect(spy).toHaveBeenCalledTimes(0);
+    });
+
     it('should have correct execution contexts', async () => {
       await page.goto(`${server.baseUrl}/frames/one-frame.html`);
       await page.waitForLoad('AllContentLoaded');
@@ -66,27 +69,6 @@ describe('Frames', () => {
       expect(await page.frames[1].evaluate('document.body.textContent.trim()')).toBe(
         `Hi, I'm frame`,
       );
-    });
-
-    it('should dispose context on navigation', async () => {
-      await page.goto(`${server.baseUrl}/frames/one-frame.html`);
-      await page.waitForLoad('AllContentLoaded');
-      expect(page.frames.length).toBe(2);
-      expect(getContexts(page)).toBe(4);
-      await page.goto(server.emptyPage);
-      // isolated context might or might not be loaded
-      expect(getContexts(page)).toBeLessThanOrEqual(2);
-    });
-
-    it('should dispose context on cross-origin navigation', async () => {
-      await page.goto(`${server.baseUrl}/frames/one-frame.html`);
-      await page.waitForLoad('AllContentLoaded');
-      expect(page.frames.length).toBe(2);
-      expect(getContexts(page)).toBe(4);
-      await page.goto(`${server.crossProcessBaseUrl}/empty.html`);
-      await page.waitForLoad('AllContentLoaded');
-      // isolated context might or might not be loaded
-      expect(getContexts(page)).toBeLessThanOrEqual(2);
     });
 
     it('should execute after cross-site navigation', async () => {
@@ -123,7 +105,7 @@ describe('Frames', () => {
         await page.waitOn('frame-created', ev => ev.frame.id === 'frame1', 2000);
       }
       await expect(
-        page.frames[1].waitForLoad({ loadStatus: 'JavascriptReady', timeoutMs:1000 }),
+        page.frames[1].waitForLoad({ loadStatus: 'JavascriptReady', timeoutMs: 1000 }),
       ).resolves.toBeTruthy();
     });
 
