@@ -25,7 +25,9 @@
       6668,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -60,7 +62,9 @@
       6613,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -95,7 +99,9 @@
       6533,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -131,7 +137,9 @@
       6478,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -166,7 +174,9 @@
       6422,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -204,7 +214,9 @@
       6367,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -239,7 +251,9 @@
       6312,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -275,7 +289,9 @@
       6261,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -311,7 +327,9 @@
       5845,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -346,7 +364,9 @@
       5790,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -381,7 +401,9 @@
       5735,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -415,7 +437,9 @@
       5672,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -449,7 +473,9 @@
       5615,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -483,7 +509,9 @@
       5563,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -518,7 +546,9 @@
       5481,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -551,7 +581,9 @@
       5414,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -586,7 +618,9 @@
       5359,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -621,7 +655,9 @@
       5304,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -656,7 +692,9 @@
       5249,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -690,7 +728,9 @@
       5195,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -723,7 +763,9 @@
       5112,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -757,7 +799,9 @@
       5060,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -790,7 +834,9 @@
       5005,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -824,7 +870,9 @@
       4951,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -859,7 +907,9 @@
       4896,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -894,7 +944,9 @@
       4844,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -928,7 +980,9 @@
       4758,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -961,7 +1015,9 @@
       4692,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -996,7 +1052,9 @@
       4664,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -1029,7 +1087,9 @@
       4638,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -1064,7 +1124,9 @@
       4606,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -1097,7 +1159,9 @@
       4577,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -1131,7 +1195,9 @@
       4515,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -1167,7 +1233,9 @@
       4472,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -1202,7 +1270,9 @@
       4430,
       null
     ],
-    "uaClientHintsPlatformVersions": [],
+    "uaClientHintsPlatformVersions": [
+      "15.0.1"
+    ],
     "operatingSystemVersion": {
       "major": "15"
     },
@@ -4093,6 +4163,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -4139,6 +4212,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -4185,6 +4261,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -4232,6 +4311,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -4278,6 +4360,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -4327,6 +4412,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -4373,6 +4461,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -4420,6 +4511,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -4466,6 +4560,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -4514,6 +4611,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -4560,6 +4660,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -4606,6 +4709,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -4653,6 +4759,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -4700,6 +4809,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -4746,6 +4858,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -4792,6 +4907,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -4837,6 +4955,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -4882,6 +5003,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -4927,6 +5051,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -4973,6 +5100,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -5017,6 +5147,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -5063,6 +5196,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -5109,6 +5245,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -5155,6 +5294,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -5200,6 +5342,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -5244,6 +5389,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -5289,6 +5437,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -5333,6 +5484,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -5378,6 +5532,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -5424,6 +5581,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -5470,6 +5630,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -5515,6 +5678,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -5559,6 +5725,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -5605,6 +5774,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -5649,6 +5821,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -5695,6 +5870,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -5739,6 +5917,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -5784,6 +5965,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -5831,6 +6015,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -5877,6 +6064,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "14.7.0",
+      "14.6.1",
+      "14.6.0",
       "14.5.0",
       "14.4.1",
       "14.4.0",
@@ -8892,6 +9082,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -8947,6 +9140,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -9002,6 +9198,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -9058,6 +9257,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -9113,6 +9315,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -9171,6 +9376,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -9226,6 +9434,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -9282,6 +9493,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -9337,6 +9551,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -9394,6 +9611,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -9449,6 +9669,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -9504,6 +9727,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -9560,6 +9786,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -9616,6 +9845,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -9671,6 +9903,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -9726,6 +9961,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -9780,6 +10018,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -9834,6 +10075,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -9888,6 +10132,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -9943,6 +10190,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -9996,6 +10246,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -10051,6 +10304,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -10106,6 +10362,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -10161,6 +10420,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -10215,6 +10477,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -10268,6 +10533,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -10322,6 +10590,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -10375,6 +10646,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -10429,6 +10703,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -10484,6 +10761,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -10539,6 +10819,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -10593,6 +10876,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -10646,6 +10932,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -10701,6 +10990,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -10754,6 +11046,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -10809,6 +11104,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -10862,6 +11160,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -10916,6 +11217,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -10972,6 +11276,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -11027,6 +11334,9 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "13.7.0",
+      "13.6.9",
+      "13.6.8",
       "13.6.7",
       "13.6.6",
       "13.6.5",
@@ -14166,6 +14476,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -14225,6 +14536,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -14284,6 +14596,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -14344,6 +14657,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -14403,6 +14717,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -14465,6 +14780,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -14524,6 +14840,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -14584,6 +14901,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -14643,6 +14961,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -14704,6 +15023,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -14763,6 +15083,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -14822,6 +15143,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -14882,6 +15204,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -14942,6 +15265,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -15001,6 +15325,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -15060,6 +15385,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -15118,6 +15444,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -15176,6 +15503,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -15234,6 +15562,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -15293,6 +15622,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -15350,6 +15680,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -15409,6 +15740,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -15468,6 +15800,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -15527,6 +15860,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -15585,6 +15919,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -15642,6 +15977,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -15700,6 +16036,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -15757,6 +16094,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -15815,6 +16153,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -15874,6 +16213,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -15933,6 +16273,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -15991,6 +16332,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -16048,6 +16390,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -16107,6 +16450,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -16164,6 +16508,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -16223,6 +16568,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -16280,6 +16626,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -16338,6 +16685,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -16398,6 +16746,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
@@ -16457,6 +16806,7 @@
       null
     ],
     "uaClientHintsPlatformVersions": [
+      "12.7.6",
       "12.7.4",
       "12.7.3",
       "12.7.2",
