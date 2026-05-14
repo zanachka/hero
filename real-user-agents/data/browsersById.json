@@ -5002,5 +5002,19 @@
     "deviceCategory": "desktop",
     "releaseDate": "unknown",
     "description": ""
+  },
+  "edge-148-0": {
+    "id": "edge-148-0",
+    "name": "Edge",
+    "marketshare": 0,
+    "version": {
+      "major": "148",
+      "minor": "0",
+      "build": "0",
+      "patch": "0"
+    },
+    "deviceCategory": "desktop",
+    "releaseDate": "unknown",
+    "description": ""
   }
 }
